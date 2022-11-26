@@ -1,0 +1,8 @@
+<li class="services_modal-service">
+        <i class="uil uil-check-circle services_modal-icon"></i>
+        <p>Made a CV like website</p>
+    </li>
+    <li class="services_modal-service">
+        <i class="uil uil-check-circle services_modal-icon"></i>
+        <p>To learn the rudimentary concepts of CSS</p>
+    </li>

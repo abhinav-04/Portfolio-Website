@@ -1,0 +1,17 @@
+<li class="services_modal-service">
+    <i class="uil uil-check-circle services_modal-icon"></i>
+    <p>Its based on the note taking app of Google Keep</p>
+</li>
+<li class="services_modal-service">
+    <i class="uil uil-check-circle services_modal-icon"></i>
+    <p>Has all the features to take the notes</p>
+</li>
+<li class="services_modal-service">
+    <i class="uil uil-check-circle services_modal-icon"></i>
+    <p>Used all the coding standards of React that make it efficient like
+        Reusability</p>
+</li>
+<li class="services_modal-service">
+    <i class="uil uil-check-circle services_modal-icon"></i>
+    <p>Used CSS to style the cards to make it look clean</p>
+</li>

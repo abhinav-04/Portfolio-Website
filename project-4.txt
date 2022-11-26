@@ -1,0 +1,12 @@
+<li class="services_modal-service">
+    <i class="uil uil-check-circle services_modal-icon"></i>
+    <p>Made a polling system</p>
+</li>
+<li class="services_modal-service">
+    <i class="uil uil-check-circle services_modal-icon"></i>
+    <p>Keeps the number of votes in a database</p>
+</li>
+<li class="services_modal-service">
+    <i class="uil uil-check-circle services_modal-icon"></i>
+    <p>Works as a REST API</p>
+</li>

@@ -1,0 +1,17 @@
+
+    <li class="services_modal-service">
+    <i class="uil uil-check-circle services_modal-icon"></i>
+    <p>Making FrontEnd website using React on Typescript</p>
+</li>
+<li class="services_modal-service">
+    <i class="uil uil-check-circle services_modal-icon"></i>
+    <p>Making REST API from Django Python</p>
+</li>
+<li class="services_modal-service">
+    <i class="uil uil-check-circle services_modal-icon"></i>
+    <p>The user can customise the car's specs using POST method</p>
+</li>
+<li class="services_modal-service">
+    <i class="uil uil-check-circle services_modal-icon"></i>
+    <p>The car's details are flourished through the API</p>
+</li>
